@@ -28,6 +28,10 @@ input, select {
     margin-left: -50px;
 }
 
+.page-size-select {
+    width: fit-content;
+}
+
 #paging-section {
     display: flex;
     align-items: center;
